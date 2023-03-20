@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9735e41-da09-498d-b011-48b26563fb40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sequencial3.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seleçao5.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seleçao7.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequencial4.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sequencial5.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seleçao4.go" beforeDir="false" afterPath="$PROJECT_DIR$/sequencial2.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,29 +56,21 @@
     "node.js.selected.package.eslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Go Build.go build sequencial3.go">
-    <configuration name="go build repetiçao2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build seleçao7.go">
+    <configuration name="go build seleçao5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-jgmotasantos" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/repetiçao2.go" />
+      <filePath value="$PROJECT_DIR$/seleçao5.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build repetiçao3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build seleçao7.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-jgmotasantos" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/repetiçao3.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build seleçao3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-jgmotasantos" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/seleçao3.go" />
+      <filePath value="$PROJECT_DIR$/seleçao7.go" />
       <method v="2" />
     </configuration>
     <configuration name="go build sequencial1.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
@@ -87,14 +81,6 @@
       <filePath value="$PROJECT_DIR$/sequencial1.go" />
       <method v="2" />
     </configuration>
-    <configuration name="go build sequencial2.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="algoritmos-em-golang-jgmotasantos" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/sequencial2.go" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build sequencial3.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="algoritmos-em-golang-jgmotasantos" />
       <working_directory value="$PROJECT_DIR$" />
@@ -103,13 +89,29 @@
       <filePath value="$PROJECT_DIR$/sequencial3.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build sequencial4.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-jgmotasantos" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/sequencial4.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build sequencial5.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="algoritmos-em-golang-jgmotasantos" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/sequencial5.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build seleçao7.go" />
+        <item itemvalue="Go Build.go build seleçao5.go" />
+        <item itemvalue="Go Build.go build sequencial5.go" />
+        <item itemvalue="Go Build.go build sequencial4.go" />
         <item itemvalue="Go Build.go build sequencial3.go" />
-        <item itemvalue="Go Build.go build sequencial2.go" />
-        <item itemvalue="Go Build.go build seleçao3.go" />
-        <item itemvalue="Go Build.go build repetiçao3.go" />
-        <item itemvalue="Go Build.go build repetiçao2.go" />
       </list>
     </recent_temporary>
   </component>
